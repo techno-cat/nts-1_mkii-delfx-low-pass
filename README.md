@@ -1,6 +1,6 @@
 # LPF
 Low-pass filter included delay effect,  
-can use as `USER DELAY FX`.
+can use as `DELAY EFFECTS`.
 
 # Parameters
 - time  
